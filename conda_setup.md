@@ -52,4 +52,9 @@ pip install jupyter
     conda deactivate
 ```
 
+#### Running Jupyter Notebook
+```
+jupyter notebook
+```
+
 
